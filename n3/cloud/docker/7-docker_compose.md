@@ -3,9 +3,9 @@
 I - ORCHESTRATION
 
 ```
-Docker c’est intéressant.Mais comment conteneurisé nos applications,lorsque nous avons plusieurs services.Deux solutions s’offrent à nous.
+Docker c’est intéressant.Mais comment conteneuriser nos applications,lorsque nous avons plusieurs services.Deux solutions s’offrent à nous.
 -Nous pouvons déployer nos différents services dans le même conteneur.
--Nous pouvons aussi conteneurisé de manière isolée nos services et établir une communication entre eux lors du démarrage.
+-Nous pouvons aussi conteneuriser de manière isolée nos services et établir une communication entre eux lors du démarrage.
 Ces solutions sont intéressantes mais elles présentent chacune des inconvénients.Avec la première nous pouvons avoir une taille très grande de notre image.Avec la deuxième et il est à notre charge de gérer la communication entre les différents services, de s’assurer que les services sont correctement démarrés.Pour palier à cela nous avons un outil qui appartient à l'écosystème docker appelé : Docker-Compose
 
 ```
@@ -17,7 +17,7 @@ II -  Docker compose file
 
 ```
 * version : 
-Permet de definir la version de compose utilisé.Elle est optionnelle
+Permet de définir la version de compose utilisé.Elle est optionnelle
 
 * services
 ```
