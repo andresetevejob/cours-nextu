@@ -16,16 +16,16 @@ I - Historique
  ```
  III - Docker vs Machine virtuelle
 
-![alt text for screen readers](/cloud/docker/images/docker-virtual_machine.png)
+![alt text for screen readers](/n3/cloud/docker/images/docker-virtual_machine.png)
 
 
  IV - Problèmes solutionner Docker
 
  1 - Gestion applicatives avant et avec docker dans un système d'exploitation
 
-![alt text for screen readers](/cloud/docker/images/os-before-docker.png)
+![alt text for screen readers](/n3/cloud/docker/images/os-before-docker.png)
 
-![alt text for screen readers](/cloud/docker/images/os-with-docker.png)
+![alt text for screen readers](/n3/cloud/docker/images/os-with-docker.png)
 
 
 
@@ -34,12 +34,12 @@ I - Historique
  ```
  - Avant docker
  ```
- ![alt text for screen readers](/cloud/docker/images/conf-before-docker.png)
+ ![alt text for screen readers](/n3/cloud/docker/images/conf-before-docker.png)
 
 ```
  - Après Docker
 ```
- ![alt text for screen readers](/cloud/docker/images/conf-after-docker.md.png)
+ ![alt text for screen readers](/n3/cloud/docker/images/conf-after-docker.md.png)
 
  
  VI - Différénces entres conteneurs et images
@@ -48,6 +48,6 @@ I - Historique
 
 Si nous nous référons à la programmation oriente objet,nous pouvons dire qu’une image est une classe et un container,une instance d’image.
  
-![alt text for screen readers](/cloud/docker/images/img-vs-cont.png)
+![alt text for screen readers](/n3/cloud/docker/images/img-vs-cont.png)
 
  
