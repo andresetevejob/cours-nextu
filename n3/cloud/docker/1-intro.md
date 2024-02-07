@@ -2,7 +2,7 @@
 
 I - Historique
 
- ![alt text for screen readers](/cloud/docker/images/container_history.png)
+ ![alt text for screen readers](/n3/cloud/docker/images/container_history.png)
 
 
 
