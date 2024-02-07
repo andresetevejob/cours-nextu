@@ -12,13 +12,13 @@ serveurs Web.
 
 II - Architecture et Fonctionnement de Node js
 
-![alt text for screen readers](/node-js/images/architecture.png)
+![alt text for screen readers](/n3/node-js/images/architecture.png)
 
-![alt text for screen readers](/node-js/images/node-js-parser.png)
+![alt text for screen readers](/n3/node-js/images/node-js-parser.png)
 
 
 
 III - Event Loop vs Thread
 
-![alt text for screen readers](/node-js/images/event-loop.png)
+![alt text for screen readers](/n3/node-js/images/event-loop.png)
 
